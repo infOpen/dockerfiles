@@ -1,0 +1,3 @@
+[submodule "bases/ubuntu-trusty-ssh"]
+	path = bases/ubuntu-trusty-ssh
+	url = git@github.com:infOpen/dockerfile-ubuntu-trusty-ssh.git
