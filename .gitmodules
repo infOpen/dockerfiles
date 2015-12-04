@@ -1,0 +1,6 @@
+[submodule "bases/ubuntu-trusty-ssh"]
+	path = bases/ubuntu-trusty-ssh
+	url = git@github.com:infOpen/dockerfile-ubuntu-trusty-ssh.git
+[submodule "jenkins-slaves/ubuntu/trusty/base"]
+	path = jenkins-slaves/ubuntu/trusty/base
+	url = git@github.com:infOpen/dockerfile-jenkins-slave-ubuntu-trusty.git
