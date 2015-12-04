@@ -4,3 +4,6 @@
 [submodule "jenkins-slaves/ubuntu/trusty/base"]
 	path = jenkins-slaves/ubuntu/trusty/base
 	url = git@github.com:infOpen/dockerfile-jenkins-slave-ubuntu-trusty.git
+[submodule "jenkins-slaves/ubuntu/trusty/build-deb-base"]
+	path = jenkins-slaves/ubuntu/trusty/build-deb-base
+	url = git@github.com:infOpen/dockerfile-jenkins-slave-ubuntu-trusty-build-deb.git
